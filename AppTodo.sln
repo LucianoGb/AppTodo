@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTodo", "AppTodo\AppTodo.csproj", "{63C1E811-C48B-4E28-8408-3A7F26810F0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{50A24B00-5F1C-4B73-AB47-5052497EF150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C1E811-C48B-4E28-8408-3A7F26810F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C1E811-C48B-4E28-8408-3A7F26810F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C1E811-C48B-4E28-8408-3A7F26810F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C1E811-C48B-4E28-8408-3A7F26810F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C8A224F-42B1-449D-AB4F-53474018B23E}
+	EndGlobalSection
+EndGlobal
